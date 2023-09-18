@@ -1,2 +1,2 @@
 # codal-demo-site-
-codal site created for aman sir
+codal site created for Landing page inspiration purpose.
